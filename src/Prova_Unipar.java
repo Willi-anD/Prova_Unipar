@@ -4,7 +4,7 @@ public class Main {
 
             int = 0{
 
-                System.out.println("Digite quantos filmes deseja avaliar");
+                System.out.println("D igite quantos filmes deseja avaliar");
 
     S
             }
